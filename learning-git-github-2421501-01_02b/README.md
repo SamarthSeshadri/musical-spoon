@@ -14,6 +14,7 @@ This is a footnote[^1]. Another footnote[^2].
 | ---- | :----: | ----: |
 | One  | Two    | $1.00 |
 
+🚭
 
 **Collapsed Details**
 <details>
