@@ -6,7 +6,7 @@
 
 This is a footnote[^1]. Another footnote[^2].
 [^1]: My Reference
-[^2]: Another footnote
+[^2]: Another footnote!
 
 
 **How to write a table**
