@@ -9,6 +9,8 @@ This is a footnote[^1]. Another footnote[^2].
 [^2]: Another footnote!
 
 
+
+
 **How to write a table**
 | Left | Center | Right |
 | ---- | :----: | ----: |
